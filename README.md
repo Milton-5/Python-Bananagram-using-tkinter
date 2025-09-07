@@ -1,6 +1,7 @@
 🍌 Bananagram Game (Tkinter + Python)
 ====================================
 
+
 This is a Bananagram-inspired word-building game built with Python’s `tkinter` GUI toolkit. 
 Players drag and place letters on a grid to form valid English words, racing against the clock to maximize their score.  
 
